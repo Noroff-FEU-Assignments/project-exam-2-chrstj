@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to bottom right, #090809, #000000);
+  /* Replace #8e44ad with purple color and #000000 with black color */
+  /* The 'to bottom right' property creates a diagonal gradient from top left to bottom right */
+  /* You can adjust the gradient direction by changing 'to bottom right' to other values like 'to top left', 'to bottom left', etc. */
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white; /* Text color on the gradient background */
+  background-color: #000000;
+  
+}
+
+
+
+ul {
+  list-style-type: none;
+}
+
